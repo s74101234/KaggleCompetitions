@@ -3,16 +3,16 @@
 https://www.kaggle.com/c/human-protein-atlas-image-classification
 
 ### Kaggle Score：
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/1.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/2.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/3.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/4.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/5.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/6.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/7.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/8.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/9.PNG)
-![image](https://github.com/s74101234/KaggleCompetitions/tree/master/Images/10.PNG)
+![image](./Images/1.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/2.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/3.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/4.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/5.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/6.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/7.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/8.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/9.PNG)
+![image](https://github.com/s74101234/KaggleCompetitions/blob/master/Images/10.PNG)
 
 ### Explanation of each program and folder：
 Main training program：
