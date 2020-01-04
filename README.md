@@ -3,16 +3,16 @@
 https://www.kaggle.com/c/human-protein-atlas-image-classification
 
 ### Kaggle Score：
-<img src="./images/(1).PNG" alt="hi" class="inline"/>
-<img src="./images/(2).PNG" alt="hi" class="inline"/>
-<img src="./images/(3).PNG" alt="hi" class="inline"/>
-<img src="./images/(4).PNG" alt="hi" class="inline"/>
-<img src="./images/(5).PNG" alt="hi" class="inline"/>
-<img src="./images/(6).PNG" alt="hi" class="inline"/>
-<img src="./images/(7).PNG" alt="hi" class="inline"/>
-<img src="./images/(8).PNG" alt="hi" class="inline"/>
-<img src="./images/(9).PNG" alt="hi" class="inline"/>
-<img src="./images/(10).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(1).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(2).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(3).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(4).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(5).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(6).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(7).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(8).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(9).PNG" alt="hi" class="inline"/>
+<img src="https://github.com/s74101234/KaggleCompetitions/images/(10).PNG" alt="hi" class="inline"/>
 
 ### Explanation of each program and folder：
 Main training program：
