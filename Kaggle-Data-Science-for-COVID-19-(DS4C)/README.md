@@ -2,6 +2,7 @@
 https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 ### Kaggle Cluster - KMeans：
+<img align="center" width="600" height="200" src="./Images/KMeans_Cluster01.png">
 ![image](./Images/KMeans_Cluster01.png)
 ![image](./Images/KMeans_Cluster02.png)
 
