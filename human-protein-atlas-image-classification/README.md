@@ -3,7 +3,7 @@
 https://www.kaggle.com/c/human-protein-atlas-image-classification
 
 ### Kaggle Score：
-<div style="text-align:center">
+<p align="center">
 <img align="center" width="800" height="500" src="./Images/1.PNG">
 <img align="center" width="800" height="500" src="./Images/2.PNG">
 <img align="center" width="800" height="500" src="./Images/3.PNG">
@@ -14,7 +14,7 @@ https://www.kaggle.com/c/human-protein-atlas-image-classification
 <img align="center" width="800" height="500" src="./Images/8.PNG">
 <img align="center" width="800" height="500" src="./Images/9.PNG">
 <img align="center" width="800" height="500" src="./Images/10.PNG">
-</div>
+</p>
 
 ### Explanation of each program and folder：
 Main training program：

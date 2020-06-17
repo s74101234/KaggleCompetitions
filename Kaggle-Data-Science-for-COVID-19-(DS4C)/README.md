@@ -2,10 +2,10 @@
 https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 ### Kaggle Cluster - KMeans：
-<div style="text-align:center">
+<p align="center">
 <img align="center" width="400" height="300" src="./Images/KMeans_Cluster01.png">
 <img align="center" width="400" height="800" src="./Images/KMeans_Cluster02.png">
-</div>
+</p>
 
 * 結果說明：
 *  經過 Davies–Bouldin Index 評估後，6群雖然較為適合，但為了方便探討以下皆使用3群。
@@ -29,10 +29,10 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 
 ### Kaggle Cluster - GaussianMixture：
-<div style="text-align:center">
+<p align="center">
 <img align="center" width="400" height="300" src="./Images/GaussianMixture_Cluster01.png">
 <img align="center" width="400" height="800" src="./Images/GaussianMixture_Cluster02.png">
-</div>
+</p>
 
 * 結果說明：
 *  經過 Davies–Bouldin Index 評估後，6群雖然較為適合，但為了方便探討以下皆使用3群。
@@ -55,10 +55,10 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 
 ### Kaggle Cluster - Birch：
-<div style="text-align:center">
+<p align="center">
 <img align="center" width="400" height="300" src="./Images/Birch_Cluster01.png">
 <img align="center" width="400" height="800" src="./Images/Birch_Cluster02.png">
-</div>
+</p>
 
 * 結果說明：
 *  經過 Davies–Bouldin Index 評估後，6群雖然較為適合，但為了方便探討以下皆使用3群。

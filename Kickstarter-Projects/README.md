@@ -2,8 +2,10 @@
 https://www.kaggle.com/kemical/kickstarter-projects/data
 
 ### Kaggle Cluster - KMeans：
-![image](./Images/KMeans_Cluster01.png)
-![image](./Images/KMeans_Cluster02.png)
+<p align="center">
+<img align="center" width="400" height="300" src="./Images/KMeans_Cluster01.png">
+<img align="center" width="400" height="600" src="./Images/KMeans_Cluster02.png">
+</p>
 
 * 結果說明：
 *  經過 Davies–Bouldin Index 評估後，可以從圖中看見分為5群較為適合。
@@ -14,8 +16,10 @@ https://www.kaggle.com/kemical/kickstarter-projects/data
 *  Cluster-4：在此分群中可以看見，計畫類型為多媒體比例較高、貨幣主要都是使用美元、計畫狀態多數為失敗案例支持者比較中間國家
 
 ### Kaggle Cluster - GaussianMixture：
-![image](./Images/GaussianMixture_Cluster01.png)
-![image](./Images/GaussianMixture_Cluster02.png)
+<p align="center">
+<img align="center" width="400" height="300" src="./Images/GaussianMixture_Cluster01.png">
+<img align="center" width="400" height="600" src="./Images/GaussianMixture_Cluster02.png">
+</p>
 
 * 結果說明：
 *  經過 Davies–Bouldin Index 評估後，可以從圖中看見分為5群較為適合。
@@ -26,8 +30,10 @@ https://www.kaggle.com/kemical/kickstarter-projects/data
 *  Cluster-4：在此分群中可以看見，計畫類型為多媒體比例較高、貨幣皆為美元、計畫狀態成功的比例較高支持者高、國家皆是美國、群眾捐款的總額比例較高、計畫目標金額則偏向中高 、計畫執行期間為低與高 。
 
 ### Kaggle Cluster - Birch：
-![image](./Images/Birch_Cluster01.png)
-![image](./Images/Birch_Cluster02.png)
+<p align="center">
+<img align="center" width="400" height="300" src="./Images/Birch_Cluster01.png">
+<img align="center" width="400" height="600" src="./Images/Birch_Cluster02.png">
+</p>
 
 * 結果說明：
 *  經過 Davies–Bouldin Index評估後，可以從圖中看見分為2群指標為最低，但是在4群的時候也接近最低指標，因此這邊選擇分為4群。
