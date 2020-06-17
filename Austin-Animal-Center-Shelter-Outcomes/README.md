@@ -4,7 +4,7 @@ https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and/d
 ### Kaggle Cluster - KMeans：
 <p align="center">
 <img align="center" width="400" height="300" src="./Images/KMeans_Cluster01.png">
-<img align="center" width="400" height="600" src="./Images/KMeans_Cluster02.png">
+<img align="center" width="400" height="400" src="./Images/KMeans_Cluster02.png">
 </p>
 
 * 結果說明：
@@ -18,7 +18,7 @@ https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and/d
 ### Kaggle Cluster - GaussianMixture：
 <p align="center">
 <img align="center" width="400" height="300" src="./Images/GaussianMixture_Cluster01.png">
-<img align="center" width="400" height="600" src="./Images/GaussianMixture_Cluster02.png">
+<img align="center" width="400" height="400" src="./Images/GaussianMixture_Cluster02.png">
 </p>
 
 * 結果說明：
@@ -31,7 +31,7 @@ https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and/d
 ### Kaggle Cluster - Birch：
 <p align="center">
 <img align="center" width="400" height="300" src="./Images/Birch_Cluster01.png">
-<img align="center" width="400" height="600" src="./Images/Birch_Cluster02.png">
+<img align="center" width="400" height="400" src="./Images/Birch_Cluster02.png">
 </p>
 
 * 結果說明：
