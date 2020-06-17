@@ -13,3 +13,6 @@ https://www.kaggle.com/kemical/kickstarter-projects/data
 
 Austin Animal Center Shelter Outcomes：
 https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and/data
+
+Kaggle-Data Science for COVID-19 (DS4C)：
+https://www.kaggle.com/kimjihoo/coronavirusdataset
